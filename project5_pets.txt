@@ -1,0 +1,8 @@
+Dog 10
+Cat 5
+Parrot 5
+Rabit 7
+Snakes 2
+Butterfly 4
+Cow 3
+Fish 7
