@@ -1,7 +1,12 @@
 # Project 1 - Turtle Game
 
 - Make a simple turtle racing game in python
-![alt text](https://github.com/abhishekbharti-github/turtleGame/blob/master/turtle_running_game.png)
+![alt text](https://github.com/abhishekbharti-github/pythonProjects/blob/master/project1_turtle_running_game.png)
+
+# Project 2 - Read Text File and Make Team
+
+- In this project, you will learn how to read external file and make team. Find a simple example here.
+![alt text](https://github.com/abhishekbharti-github/pythonProjects/blob/master/project2_team_making_screenshot.png)
 
 # Project 3 - Colorful Poster
 
